@@ -29,5 +29,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage":"./"
+  "homepage": "./",
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
+  }
 }
